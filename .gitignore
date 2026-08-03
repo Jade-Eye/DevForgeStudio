@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Coverage
+.coverage
+htmlcov/
+
+# Testing
+.pytest_cache/
+
+# Build
+build/
+dist/
+
+# Qt
+*.qmlc
+*.jsc
+
+# Environment
+.env
+.env.*
+
+# SQLite
+*.db
+*.sqlite3
+
+# DevForge
+workspace/
+generated_projects/
